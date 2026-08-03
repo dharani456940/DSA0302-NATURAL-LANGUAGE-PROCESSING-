@@ -36,4 +36,4 @@ for i in range(len(words)):
 print("\nTransformation-Based POS Tags:\n")
 
 for word, tag in zip(words, tags):
-    print(word, ":", tag)
+    print(word, ":", 
